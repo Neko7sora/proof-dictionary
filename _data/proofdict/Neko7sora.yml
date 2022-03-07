@@ -1,0 +1,14 @@
+id: 01FXJF829KWTGCR614E6PGWN67
+description: Neko7sora
+expected: Neko7sora
+patterns:
+  - /n7s/i
+  - /neko7sora/i
+allows: []
+specs:
+  - from: n7s
+    to: Neko7sora
+  - from: neko7sora
+    to: Neko7sora
+tags:
+  - noun
